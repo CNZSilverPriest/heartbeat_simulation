@@ -22,7 +22,7 @@ A mesmerizing, colorful beating heart animation created with Python's Tkinter. T
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/beating-heart.git
+   git clone https://github.com/CNZSilverPriest/heartbeat_simulation
    cd beating-heart
    ```
 
