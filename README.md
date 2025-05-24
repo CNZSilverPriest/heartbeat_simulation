@@ -2,7 +2,7 @@
 ❤️ Beating Heart Animation ❤️
 
 A mesmerizing, colorful beating heart animation created with Python's Tkinter. This program generates a dynamic heart that pulsates with random color patterns, surrounded by a glowing halo effect.
-
+ 
 ![Beating Heart Demo](https://www.tiktok.com/@lillianpangyuan/video/7164773729732496641?is_from_webapp=1&sender_device=pc) 
 
 ## Features
