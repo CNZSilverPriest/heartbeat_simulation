@@ -9,7 +9,7 @@ A mesmerizing, colorful beating heart animation created with Python's Tkinter. T
 
 - 🎨 Multi-colored heart with 15 different color variations
 - 💓 Realistic beating animation using mathematical functions
-- ✨ Glowing halo effect that pulses with the heartbeat
+- ✨ Glowing halo effect that pulses with the heartbeat 
 - 🌀 Random particle generation for organic movement
 - 📝 Customizable parameters for size, colors, and animation speed
 
